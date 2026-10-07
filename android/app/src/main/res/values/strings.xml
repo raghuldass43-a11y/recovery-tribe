@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Recovery Tribe</string>
+    <string name="title_activity_main">Recovery Tribe</string>
+    <string name="package_name">com.recoverytribe.app</string>
+    <string name="custom_url_scheme">com.recoverytribe.app</string>
+</resources>

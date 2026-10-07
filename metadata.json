@@ -1,0 +1,6 @@
+{
+  "name": "RecoveryTribe - Multilingual Recovery & 100 Day Challenge",
+  "description": "A supportive multilingual recovery community with sobriety tracking, daily 100-day challenges, peer messaging, and crisis support in 13 Indian languages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
